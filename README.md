@@ -1,4 +1,8 @@
 # 在Android Studio运行第一个NDK程序
+
+> 转载 http://blog.csdn.net/yanbober/article/details/45309049
+
+
 ###1.在AS中新建一个Project，然后再新建一个class为NdkJniUtils，在内部声明native方法（jni使用的定义，后面系列教程会细说）。
 ```
 package io.github.yanbober.ndkapplication;
